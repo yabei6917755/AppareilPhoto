@@ -1,0 +1,26 @@
+
+/* Class = "UILabel"; text = "Random date"; ObjectID = "CGg-SN-0Fm"; */
+"CGg-SN-0Fm.text" = "Date aléatoire";
+
+
+/* Class = "UIButton"; normalTitle = "1 9 9 7 / 0 7 / 2 6"; ObjectID = "XgX-VF-NT6"; */
+"XgX-VF-NT6.normalTitle" = "1 9 9 7 / 0 7 / 2 6";
+
+
+/* Class = "UILabel"; text = "Add date stamp"; ObjectID = "cTk-Bg-Zd6"; */
+"cTk-Bg-Zd6.text" = "Ajouter un timbre à date";
+
+/* Class = "UILabel"; text = "Sound Enable"; ObjectID = "ciW-g8-zus"; */
+"ciW-g8-zus.text" = "Activer le son";
+
+/* Class = "UILabel"; text = "Custom date"; ObjectID = "eGX-CX-fbW"; */
+"eGX-CX-fbW.text" = "Date personnalisée";
+
+/* Class = "UIButton"; normalTitle = "Rate and Review"; ObjectID = "oaF-lb-FRB"; */
+"oaF-lb-FRB.normalTitle" = "Taux et avis";
+
+/* Class = "UILabel"; text = "S  E  T  T  I  N  G  S"; ObjectID = "tvx-4K-XZq"; */
+"tvx-4K-XZq.text" = "Réglages";
+
+/* Class = "UIButton"; normalTitle = "Feedback"; ObjectID = "xge-4Y-ptq"; */
+"xge-4Y-ptq.normalTitle" = "Retour d'information";

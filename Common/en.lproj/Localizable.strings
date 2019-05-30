@@ -1,0 +1,36 @@
+/* 
+  Localizable.strings
+  FTCamera
+
+  Created by 张文洁 on 2018/7/30.
+  Copyright © 2018年 JamStudio. All rights reserved.
+*/
+"Loading" = "Loading...";
+"NotSupportAlbum" = "Not Support Album";
+"NoCamera" = "No Camera Device";
+"NoMailAccount" = "No Mail Account";
+"FeedbackError" = "Feedback Error";
+
+"Tip" = "Tips";
+"Evaluate" = "Can you evaluate us?";
+"OK" = "OK";
+"Cancel" = "Cancel";
+"Share" = "Share";
+"Saved" = "Saved successfully";
+
+"tabbar1" = "E  D  I  T";
+"tabbar2" = "F  I  L  T  E  R";
+"tabbar3" = "G R A I N";
+
+"LEVEL" = "LEVEL";
+"SHARPNESS" = "SHARPNESS";
+"COLOR" = "COLOR";
+"EXPOSURE" = "EXPOSURE";
+"CONTRAST" = "CONTRAST";
+"SATURATION" = "SATURATION";
+"BRIGHTNESS" = "BRIGHTNESS";
+"SHADOW" = "SHADOW";
+"VIGNETTE" = "VIGNETTE";
+
+"Privacy" = "Privacy Policy";
+

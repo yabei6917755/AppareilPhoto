@@ -1,0 +1,36 @@
+/* 
+  Localizable.strings
+  FTCamera
+
+  Created by 张文洁 on 2018/7/30.
+  Copyright © 2018年 JamStudio. All rights reserved.
+*/
+
+"Loading" = "加载中...";
+"NotSupportAlbum" = "没有支持的相册";
+"NoCamera" = "没有合适的相机";
+"NoMailAccount" = "没有合适的邮箱";
+"FeedbackError" = "反馈失败";
+
+"Tip" = "提醒";
+"Evaluate" = "可以给我们评估吗?";
+"OK" = "好的";
+"Cancel" = "取消";
+"Share" = "分享";
+"Saved" = "保存成功";
+
+"tabbar1" = "编辑";
+"tabbar2" = "过滤";
+"tabbar3" = "灯光效果";
+
+"LEVEL" = "层级";
+"SHARPNESS" = "锐度";
+"COLOR" = "颜色";
+"EXPOSURE" = "曝光度";
+"CONTRAST" = "对比度";
+"SATURATION" = "饱和度";
+"BRIGHTNESS" = "亮度";
+"SHADOW" = "阴影";
+"VIGNETTE" = "漫画风";
+
+"Privacy" = "隐私政策";

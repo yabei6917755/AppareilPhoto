@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  FTCamera
+
+  Created by 张文洁 on 2018/7/30.
+  Copyright © 2018年 JamStudio. All rights reserved.
+*/
+
+NSPhotoLibraryUsageDescription = "请允许使用您的相册";
+NSCameraUsageDescription = "请允许使用您的相机";
+NSPhotoLibraryAddUsageDescription = "请允许添加相片到您的相册";
